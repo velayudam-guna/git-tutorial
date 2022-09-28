@@ -1,2 +1,2 @@
 # git tutorial
-# this is second commit
+this is second commit
